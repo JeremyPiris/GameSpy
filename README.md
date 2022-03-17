@@ -1,5 +1,5 @@
 # GameSpy
-Projet fil rouge de ma formation data analyst chez DataScientest
+Projet fil rouge de ma formation Data Analyst chez DataScientest
 
 Ce projet a été fait en collaboration avec 2 autres étudiants de ma promo, entre septembre 2021 et avril 2022.
 
